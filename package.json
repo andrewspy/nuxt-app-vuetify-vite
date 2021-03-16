@@ -15,9 +15,12 @@
     "nuxt": "^2.14.12"
   },
   "devDependencies": {
+    "@nuxtjs/composition-api": "^0.22.1",
     "@nuxtjs/eslint-config": "^5.0.0",
     "@nuxtjs/eslint-module": "^3.0.2",
     "@nuxtjs/vuetify": "^1.11.3",
+    "@vue/composition-api": "^1.0.0-rc.5",
+    "nuxt-vite": "^0.0.36",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.18.0",
     "eslint-config-prettier": "^7.2.0",
